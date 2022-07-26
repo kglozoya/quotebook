@@ -1,5 +1,3 @@
 humor quote 1 -someone
 
 humor quote 2 -sometwo
-
-humor quote 3 -somethree
